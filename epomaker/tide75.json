@@ -205,7 +205,7 @@
       "RGB_SPI"
     ],
     [
-      "LT(2,KC_ESC)",
+      "LT(3,KC_ESC)",
       "KC_F1",
       "KC_F2",
       "KC_F3",
