@@ -13,3 +13,7 @@
 ## Tide 75
 
 - [Via Json File](https://epomaker.com/cdn/shop/files/EPOMAKER-TIDE-75.zip?v=15199172795887851830)
+
+## Air 75 v2
+
+- [Via Json File](https://cdn.shopify.com/s/files/1/0268/7297/1373/files/nuphy-air75-v2-via3.zip?v=1715828250)
